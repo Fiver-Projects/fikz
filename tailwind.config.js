@@ -4,7 +4,7 @@ module.exports = {
     theme: {
         extend: {
             colors: {
-                "fikz-brown": "#B77729",
+                "fikz-black": "#131313",
                 "fikz-yellow": "#F6C61A",
                 "fikz-bg": "#F5F5F5",
                 "fikz-gray-strong": "#333333",
