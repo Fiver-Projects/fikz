@@ -2,9 +2,9 @@ import React from "react"
 
 const page = () => {
     return (
-        <section className='mx-auto max-w-[1440px]'>
+        <section className='mx-auto max-w-[1440px] mt-2'>
             <h4 className='text-lg  text-fikz-black'>Cover Letter</h4>
-            <hr className='h-[2px] w-full bg-fikz-gray-light/20 my-3' />
+            <hr className='h-[2px] w-full bg-fikz-gray-light/20 mb-3' />
             <div className='p-2 flex flex-col sm:flex-row bg-fikz-gray-light/20'>
                 <img className='h-14' src='/sq-profile.svg' alt='' />
                 <div className='flex flex-col items-center px-4'>
