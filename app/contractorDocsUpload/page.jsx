@@ -10,7 +10,7 @@ const page = () => {
   return (
     <section className="w-full max-w-[1280px] mx-auto p-4">
       <div className="flex flex-col md:flex-row justify-start md:justify-between gap-5 md:gap-0 items-center border-b-2 border-fikz-gray-light/30 py-3">
-        <div className="flex justify-start items-center gap-4 md:gap-20">
+        <div className="flex flex-wrap justify-start items-center gap-4 md:gap-20">
           <button className="flex items-center gap-4">
             <span className="h-8 w-8 font-semibold rounded-full border-2 border-fikz-black text-center flex justify-center items-center">
               1
