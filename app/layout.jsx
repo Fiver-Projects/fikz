@@ -6,7 +6,7 @@ const poppins = Poppins({ subsets: ["latin"], weight: ["400", "500", "600", "700
 
 export const metadata = {
     title: "Fikz",
-    description: "Fikz Fikz Fikz",
+    description: "I willz Fikz Youz Houz witz my Toolz",
 }
 
 export default function RootLayout({ children }) {
